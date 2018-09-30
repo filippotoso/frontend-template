@@ -1,0 +1,1 @@
+Questa cartella contiene i singoli blocchi di contenuto editoriale (uno per file).

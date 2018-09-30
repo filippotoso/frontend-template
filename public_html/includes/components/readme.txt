@@ -1,0 +1,1 @@
+Questa cartella contiene i componenti (uno per file).

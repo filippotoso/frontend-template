@@ -1,0 +1,1 @@
+Questa cartella contiene gli elementi ripetuti (uno per file).
